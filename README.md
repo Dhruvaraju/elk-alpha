@@ -18,4 +18,15 @@ Learning log for ELK stack
 
 ## Installing ELK
 - We require Java JDK for installing ELK
+- Available on mac, linux, windows and docker
+- in Windows naigate to elastic.co/start and dowload the zip files for elastic search and kibana
+- Place them in a folder and extract them.
+- Each folder will have a bin folder, in which you will find bacth scripts for starting elastic and kibana
+- once both are started open a browser and navigate to localhost:5601 you will be able to launch kibana
+
+## Installing elastic with docker
+- docker should be installed earlier
+- navigate to https://www.docker.elastic.co/
+- select the stack option you want to install
+- pull the docoker images and run them
  
