@@ -91,3 +91,13 @@ Learning log for ELK stack
 - Site and app searching
 - Security analysis
 - Application performance management
+
+> If you are facing any issues with kibana select management tab to see index related information
+
+> If still issues are there, you can load the projects in visual code and check the config.yml files. Check for the generated passwords are updated properly.
+
+## Trouble shooting resources
+- docs on elastic.co
+- global community pages
+- discuss.elastic.co
+- stackoverflow
